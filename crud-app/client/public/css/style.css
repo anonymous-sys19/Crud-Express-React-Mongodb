@@ -1,0 +1,16 @@
+/* styles.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Agrega aquí tus estilos personalizados */
+body{
+    background: rgb(174, 179, 230);
+}
+
+.myDiv{
+    display: flex;
+    margin: 2rem 0 0 0;
+    justify-content: space-between;
+
+}
